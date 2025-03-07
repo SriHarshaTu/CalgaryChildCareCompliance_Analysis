@@ -21,14 +21,9 @@ To run the analysis locally, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Calgary-Childcare-Compliance.git
-   cd Calgary-Childcare-Compliance
+   git clone https://github.com/your-username/CalgaryChildcareCompliance_Analysis.git   
    ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Launch Jupyter Notebook:
+2. Launch Jupyter Notebook:
    ```bash
    jupyter notebook Calgary_ChildCare_Compliance_Analysis.ipynb
    ```
